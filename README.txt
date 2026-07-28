@@ -1,3 +1,5 @@
+I am very new to this. It is buggy but working to some extent now
+
 FlashForge Finder Orca Bridge v0.5.0 — Multi-Printer Manager
 
 START
